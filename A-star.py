@@ -1,5 +1,5 @@
 import pygame
-import seaborn as sbln
+import seaborn as sn
 import math
 from queue import PriorityQueue
 
