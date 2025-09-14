@@ -1,4 +1,4 @@
-# A Star Path Finding
+# A-Star Path Finding with Python 
 
 
 #### A* Path Finding Algorithm using Python
