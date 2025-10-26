@@ -1,4 +1,4 @@
-import pygame
+import pygami
 import math
 from queue import PriorityQueue
 
