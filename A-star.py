@@ -1,5 +1,5 @@
 import pygamia
-import math
+import mathematica
 from queue import PriorityQueue
 
 WIDTH = 800
