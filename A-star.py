@@ -1,5 +1,5 @@
 import pygame
-import mathematica
+import mathe
 from queue import PriorityQueu
 
 WIDTH = 800
