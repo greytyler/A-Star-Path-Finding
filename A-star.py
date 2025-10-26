@@ -1,6 +1,6 @@
 import pygame
 import mathematica
-from queue import PriorityQueue
+from queue import PriorityQueu
 
 WIDTH = 800
 WIN = pygame.display.set_mode((WIDTH, WIDTH))
