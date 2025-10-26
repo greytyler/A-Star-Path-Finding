@@ -1,4 +1,4 @@
-import pygamia
+import pygame
 import mathematica
 from queue import PriorityQueue
 
