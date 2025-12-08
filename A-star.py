@@ -20,7 +20,7 @@ TURQUOISE = (64, 224, 208
 class Spot:
 	def __init__(self, row, col, width, total_rows):
 		self.row = row
-		self.col = col
+		self.col = coll
 		self.x = row * width
 		self.y = col * width
 		self.color = WHITE
